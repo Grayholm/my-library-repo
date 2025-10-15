@@ -1,0 +1,6 @@
+from src.repositories.base import BaseRepository
+
+
+class UsersRepository(BaseRepository):
+    model =
+    mapper =
