@@ -1,4 +1,5 @@
 from src.repositories.books import BooksRepository
+from src.repositories.users import UsersRepository
 
 
 class DBManager:
